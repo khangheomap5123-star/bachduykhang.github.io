@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yourusername.github.io/</loc>
+    <lastmod>2025-12-26T15:59:12+07:00</lastmod>
+  </url><url>
+    <loc>https://yourusername.github.io/posts/</loc>
+    <lastmod>2025-12-26T15:59:12+07:00</lastmod>
+  </url><url>
+    <loc>https://yourusername.github.io/posts/tong-quan-network-programming/</loc>
+    <lastmod>2025-12-26T15:59:12+07:00</lastmod>
+  </url><url>
+    <loc>https://yourusername.github.io/posts/js-array-methods/</loc>
+    <lastmod>2025-12-26T15:59:05+07:00</lastmod>
+  </url><url>
+    <loc>https://yourusername.github.io/posts/js-async-await/</loc>
+    <lastmod>2025-12-26T15:58:43+07:00</lastmod>
+  </url><url>
+    <loc>https://yourusername.github.io/posts/java-socket-udp/</loc>
+    <lastmod>2025-12-26T15:58:17+07:00</lastmod>
+  </url><url>
+    <loc>https://yourusername.github.io/posts/java-socket-tcp/</loc>
+    <lastmod>2025-12-26T15:58:01+07:00</lastmod>
+  </url><url>
+    <loc>https://yourusername.github.io/categories/</loc>
+  </url><url>
+    <loc>https://yourusername.github.io/tags/</loc>
+  </url>
+</urlset>

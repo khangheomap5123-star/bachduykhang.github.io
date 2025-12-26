@@ -1,0 +1,19 @@
+baseURL = "https://yourusername.github.io/"
+title = "Blog Chuyên Đề Java và JavaScript"
+languageCode = "vi"
+theme = "PaperMod"
+
+[params.homeInfoParams]
+    enabled = true
+    title = "Chào mừng đến với Blog cá nhân của Duy Khang"
+    content = "Mình chia sẻ kiến thức về Lập trình mạng, Java và JavaScript."
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+[[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
+    
