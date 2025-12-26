@@ -1,4 +1,4 @@
-baseURL = "https://yourusername.github.io/"
+baseURL = "https://khangheomap5123-star.github.io/"
 title = "Blog Chuyên Đề Java và JavaScript"
 languageCode = "vi"
 theme = "PaperMod"
@@ -16,4 +16,3 @@ theme = "PaperMod"
     name = "Blog"
     url = "/posts/"
     weight = 20
-    

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog Chuyên Đề Java và JavaScript</title>
-    <link>https://yourusername.github.io/</link>
+    <link>https://khangheomap5123-star.github.io/</link>
     <description>Recent content on Blog Chuyên Đề Java và JavaScript</description>
     <generator>Hugo -- 0.153.2</generator>
     <language>vi</language>
     <lastBuildDate>Fri, 26 Dec 2025 15:59:12 +0700</lastBuildDate>
-    <atom:link href="https://yourusername.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://khangheomap5123-star.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tong Quan Network Programming</title>
-      <link>https://yourusername.github.io/posts/tong-quan-network-programming/</link>
+      <link>https://khangheomap5123-star.github.io/posts/tong-quan-network-programming/</link>
       <pubDate>Fri, 26 Dec 2025 15:59:12 +0700</pubDate>
-      <guid>https://yourusername.github.io/posts/tong-quan-network-programming/</guid>
+      <guid>https://khangheomap5123-star.github.io/posts/tong-quan-network-programming/</guid>
       <description>&lt;h3 id=&#34;1-khái-niệm-về-socket-tpc&#34;&gt;1. Khái niệm về Socket Tpc&lt;/h3&gt;
 &lt;p&gt;Trong lập trình mạng, Socket là điểm cuối (endpoint) của một liên kết truyền thông hai chiều giữa hai chương trình đang chạy trên mạng.&lt;/p&gt;
 &lt;h3 id=&#34;2-ví-dụ-code-đơn-giản&#34;&gt;2. Ví dụ Code đơn giản&lt;/h3&gt;
@@ -20,9 +20,9 @@
     </item>
     <item>
       <title>Js Array Methods</title>
-      <link>https://yourusername.github.io/posts/js-array-methods/</link>
+      <link>https://khangheomap5123-star.github.io/posts/js-array-methods/</link>
       <pubDate>Fri, 26 Dec 2025 15:59:05 +0700</pubDate>
-      <guid>https://yourusername.github.io/posts/js-array-methods/</guid>
+      <guid>https://khangheomap5123-star.github.io/posts/js-array-methods/</guid>
       <description>&lt;h3 id=&#34;1-khái-niệm-về-socket-tpc&#34;&gt;1. Khái niệm về Socket Tpc&lt;/h3&gt;
 &lt;p&gt;Trong lập trình mạng, Socket là điểm cuối (endpoint) của một liên kết truyền thông hai chiều giữa hai chương trình đang chạy trên mạng.&lt;/p&gt;
 &lt;h3 id=&#34;2-ví-dụ-code-đơn-giản&#34;&gt;2. Ví dụ Code đơn giản&lt;/h3&gt;
@@ -30,17 +30,17 @@
     </item>
     <item>
       <title>Js Async Await</title>
-      <link>https://yourusername.github.io/posts/js-async-await/</link>
+      <link>https://khangheomap5123-star.github.io/posts/js-async-await/</link>
       <pubDate>Fri, 26 Dec 2025 15:58:43 +0700</pubDate>
-      <guid>https://yourusername.github.io/posts/js-async-await/</guid>
+      <guid>https://khangheomap5123-star.github.io/posts/js-async-await/</guid>
       <description>&lt;h3 id=&#34;1-khái-niệm-về-js-async-await&#34;&gt;1. Khái niệm về Js Async Await&lt;/h3&gt;
 &lt;p&gt;Async/Await trong JavaScript giúp viết code bất đồng bộ (async) trông giống code đồng bộ, dùng async khai báo hàm để luôn trả về Promise, và dùng await (chỉ trong hàm async) để tạm dừng chờ Promise trả kết quả, giúp xử lý API và các tác vụ đợi (delay) dễ dàng hơn nhiều so với dùng .then() hay callbacks, ví dụ: tạo hàm async chờ setTimeout, rồi gọi nó với await để in ra thông báo sau một khoảng thời gian.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lập trình Socket Udp trong Java</title>
-      <link>https://yourusername.github.io/posts/java-socket-udp/</link>
+      <link>https://khangheomap5123-star.github.io/posts/java-socket-udp/</link>
       <pubDate>Fri, 26 Dec 2025 15:58:17 +0700</pubDate>
-      <guid>https://yourusername.github.io/posts/java-socket-udp/</guid>
+      <guid>https://khangheomap5123-star.github.io/posts/java-socket-udp/</guid>
       <description>&lt;h3 id=&#34;1-khái-niệm-về-socket-udp&#34;&gt;1. Khái niệm về Socket Udp&lt;/h3&gt;
 &lt;p&gt;Socket UDP (hay còn gọi là DatagramSocket) là một điểm cuối giao tiếp mạng không hướng kết nối, sử dụng giao thức UDP (User Datagram Protocol) để gửi và nhận các gói dữ liệu (datagram) một cách nhanh chóng, đơn giản nhưng không đảm bảo thứ tự hay độ tin cậy, thích hợp cho ứng dụng thời gian thực như stream video/âm thanh.&lt;/p&gt;
 &lt;h3 id=&#34;2-ví-dụ-code-đơn-giản&#34;&gt;2. Ví dụ Code đơn giản&lt;/h3&gt;
@@ -48,9 +48,9 @@
     </item>
     <item>
       <title>Lập trình Socket Tcp trong Java</title>
-      <link>https://yourusername.github.io/posts/java-socket-tcp/</link>
+      <link>https://khangheomap5123-star.github.io/posts/java-socket-tcp/</link>
       <pubDate>Fri, 26 Dec 2025 15:58:01 +0700</pubDate>
-      <guid>https://yourusername.github.io/posts/java-socket-tcp/</guid>
+      <guid>https://khangheomap5123-star.github.io/posts/java-socket-tcp/</guid>
       <description>&lt;h3 id=&#34;1-khái-niệm-về-socket&#34;&gt;1. Khái niệm về Socket&lt;/h3&gt;
 &lt;p&gt;Trong lập trình mạng, Socket là điểm cuối (endpoint) của một liên kết truyền thông hai chiều giữa hai chương trình đang chạy trên mạng.&lt;/p&gt;
 &lt;h3 id=&#34;2-ví-dụ-code-đơn-giản&#34;&gt;2. Ví dụ Code đơn giản&lt;/h3&gt;
