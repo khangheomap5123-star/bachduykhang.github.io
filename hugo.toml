@@ -1,0 +1,9 @@
+baseURL = 'https://khangheomap5123-star.github.io/bachduykhang.github.io/'
+languageCode = 'vi-vn'
+title = 'Blog Đồ Án Của Duy Khang'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = "auto"
+    showCodeCopyButtons = true
+    
